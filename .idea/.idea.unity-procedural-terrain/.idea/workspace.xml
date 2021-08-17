@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb7fa2e8-c260-4d35-9c7c-9d631c834b64" name="Default Changelist" comment="" />
+    <list default="true" id="bb7fa2e8-c260-4d35-9c7c-9d631c834b64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity-procedural-terrain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity-procedural-terrain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InitScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1wRu4wb12zHSeqL3XA3Dr9XrPTI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628433536487</updated>
-      <workItem from="1628433543766" duration="1640000" />
+      <workItem from="1628433543766" duration="2144000" />
+      <workItem from="1629217543218" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="Create Unity project">
       <created>1628434158125</created>
@@ -65,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628434158125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create Unity project">
+      <created>1628436123903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628436123903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
