@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb7fa2e8-c260-4d35-9c7c-9d631c834b64" name="Default Changelist" comment="" />
+    <list default="true" id="bb7fa2e8-c260-4d35-9c7c-9d631c834b64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomTerrain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity-procedural-terrain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity-procedural-terrain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InitScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/InitScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +19,17 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InitScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B005E635-06C3-47B5-9F29-9010DBD87C23/4f/03775c54/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6EA51F5C-05C6-4876-8E2C-7AA0ECBC993C/f6/6db9a622/GUITable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E85ABF84-8CA5-40DF-A714-449BE2C022E3/5c/6b1da65e/TerrainData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98D42BC7-F2EC-490D-BCBC-75270C69B5A3/32/bb2dbbf0/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E85ABF84-8CA5-40DF-A714-449BE2C022E3/72/7d9f8602/Terrain.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Editor/CustomTerrainEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CustomTerrain.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1wRu4wb12zHSeqL3XA3Dr9XrPTI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +77,9 @@
       <updated>1628433536487</updated>
       <workItem from="1628433543766" duration="2144000" />
       <workItem from="1629217543218" duration="245000" />
+      <workItem from="1630081335838" duration="59000" />
+      <workItem from="1631002798872" duration="6315000" />
+      <workItem from="1631636023665" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="Create Unity project">
       <created>1628434158125</created>
@@ -83,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629221869174</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added grass">
+      <created>1630081362314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630081362314</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add unrev files">
+      <created>1630081383225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630081383225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +140,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Create Unity project" />
     <MESSAGE value="Add asset packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add asset packages" />
+    <MESSAGE value="Added grass" />
+    <MESSAGE value="Add unrev files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add unrev files" />
   </component>
 </project>
